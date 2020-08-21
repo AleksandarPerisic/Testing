@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3710d69d-8a3c-4380-929c-3ec1a7124d99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BaseWebDriverTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BaseWebDriverTest$DriverType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BaseWebDriverTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/CreateAccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/HomePageTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/SingInPageTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/pages/accountcreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/pages/home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/pages/singin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/CreateAccountTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/HomePageTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/SingInPageTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-CreateAccountTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-HomePageTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-SingInPageTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_10415991024508531934_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_11557007054445340349_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_11922710934270281491_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_12683161322226340168_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_12752780895531967024_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_12831073271068407731_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_131073345127456160_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_13376458002934153734_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_13548699526763760264_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_13711430056744798244_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_13939878622575069191_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_1442321819232673025_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_14732779502974741715_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_1483949135840058274_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_15180300318056726300_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_15207371034130609763_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_15238838620676284397_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_15324189325600509670_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_1548419924632740165_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16140963404063180823_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_1639703067710707933_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16560628953769899490_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16708646991489708864_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16788655526024350332_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16840877351797733293_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_16982182731115554454_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17006407449846000390_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17093123360549569448_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17544999089128237282_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17603530681587695733_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17674559346549914982_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_17697903988514995756_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_18319715487438228153_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_2697527900342159194_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_2915990001910207108_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_3033049956052999814_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_3135936147779937967_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_3259446090947886020_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_3540908203256788790_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_391597030646147145_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_4278859228640015103_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_4327814448340081368_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_436786304423593174_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_4621617509650677212_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_4992738733109246129_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_5124110657714172961_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_5162706771218916764_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_529384233461234380_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_5426658809649931508_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_6097812122323831146_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_6206665505121683884_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_7184111803478817216_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_7805505489175015597_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_7951957177054034123_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_8010882083146027604_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_8501739719606004505_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_9395527368265396321_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_9423588248596965897_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_97677954533275093_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_9794409021958094135_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/test/jar_extract_986814575389470117_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseWebDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SingInPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/accountcreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/singin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webdrivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webdrivers/geckodriver" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Testing" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Testing" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8536eceb-2a23-49e1-8d69-1c9fb62bb99f" />
+  <component name="ProjectId" id="1gMHcx5VqAthmZGe3wKgmB8HiW4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/test/pages" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'Testing.test'">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateAccountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CreateAccountTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateAccountTest.verifyAccountCreationPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CreateAccountTest.verifyAccountCreationPage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HomePageTests.verifyHomePage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;HomePageTests.verifyHomePage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SingInPageTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SingInPageTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Testing.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'Testing.test'" />
+        <item itemvalue="Gradle.CreateAccountTest" />
+        <item itemvalue="Gradle.SingInPageTests" />
+        <item itemvalue="Gradle.HomePageTests.verifyHomePage" />
+        <item itemvalue="Gradle.CreateAccountTest.verifyAccountCreationPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3710d69d-8a3c-4380-929c-3ec1a7124d99" name="Default Changelist" comment="" />
+      <created>1597917625834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597917625834</updated>
+      <workItem from="1597917630231" duration="3670000" />
+      <workItem from="1597925570627" duration="4660000" />
+      <workItem from="1597941646042" duration="5771000" />
+      <workItem from="1597952733973" duration="24000" />
+      <workItem from="1597952820413" duration="29611000" />
+      <workItem from="1598020601015" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597963133604">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="610" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.971@0.23.1680.971" timestamp="1597925707196" />
+    <state x="610" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.974@0.23.1680.974" timestamp="1597963133604" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom" timestamp="1598021020224">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1597925504743" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1598007119113" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1598018451533" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1598016704582" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1598020557148" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1598021020224" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1597946674785" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1597947055222" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1597947115644" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1597945916769" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1597946182786" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center" timestamp="1598021020223">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1597925504742" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1598007119112" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1598018451532" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1598016704581" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1598020557147" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1598021020223" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1597946674784" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1597947055221" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1597947115644" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1597945916768" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1597946182786" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left" timestamp="1598021020223">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1597925504741" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1598007119112" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1598018451531" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1598016704581" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1598020557146" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1598021020223" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1597946674784" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1597947055220" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1597947115643" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1597945916768" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1597946182785" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right" timestamp="1598021020224">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1597925504742" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1598007119112" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1598018451533" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1598016704582" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1598020557148" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1598021020224" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1597946674785" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1597947055221" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1597947115644" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1597945916769" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1597946182786" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1597939697605">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1597918414658" />
+    <state x="341" y="147" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1597939697605" />
+  </component>
+</project>
